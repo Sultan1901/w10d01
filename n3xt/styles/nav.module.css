@@ -1,0 +1,12 @@
+.ul{
+    display: flex;
+    gap: 15px;
+}
+
+.li{
+    list-style: none;
+}
+
+.div1{
+    border: 2px solid ;
+}
